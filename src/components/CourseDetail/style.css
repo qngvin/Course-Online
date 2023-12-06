@@ -1,0 +1,6 @@
+.modal-video .ant-modal-body {
+  width: 100%;
+}
+.modal-video .ant-modal-close-icon {
+  background-color: #64b0ca; /* Đặt màu nền xanh cho nút hủy bỏ */
+}
