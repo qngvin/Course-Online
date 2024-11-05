@@ -1,6 +1,5 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import courseApi from "../../../api/courseApi";
-import { createCourse, updateCourse } from "./createCourseSlice";
 const initialState = {
   catalog: null,
   error: "",

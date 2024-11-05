@@ -15,7 +15,7 @@ const courseApi = {
 
     if (!!catalogIDs) {
       url = `/Course/filter?offset=0&limit=${limit}&minPrice=0&maxPrice=9999&catalogIDs=${catalogIDs}&courseSort=${courseSort}`;
-    }
+    } 
 
     return axiosClient.get(url);
   },

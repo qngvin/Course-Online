@@ -1,5 +1,7 @@
 # <div align="center"> Course <div/>
 
+## Notification:
+  Server API đã tắt
 ## Account test:
 
 - Email:
@@ -28,10 +30,6 @@
   3 : Newest,
   4 : Oldest
   }
-
-## 0. Fix style
-
-- node_modules -> slick-carousel -> slick -> + slick.css -> add overflow-x: clip in .slick-list + slick-theme.css -> add color: black !important; in .slick-prev:before,.slick-next:before
 
 ## 1. Setup and start project
 
